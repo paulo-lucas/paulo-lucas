@@ -5,15 +5,14 @@
 [![Twitter](https://img.shields.io/badge/-plucasdev-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/plucasdev)](https://twitter.com/plucasdev)
 [![Instagram Badge](https://img.shields.io/badge/-@plucas.oc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/plucas.oc/)](https://instagram.com/jlim_slam)
 
-💼 Currently working as Software Engineer at <a href="https://www.americanas.com.br/" target="_blank"><b>americanas s.a.</b></a>
+- 💼 Currently working as Software Engineer at <a href="https://www.americanas.com.br/" target="_blank"><b>americanas s.a.</b></a>
+- 🌱 Learning **Go**
+- 📝 I write articles on [Medium](https://medium.com/@plucasdev)
+- ⚡️ Checkout my website [paulolucas.dev](https://paulolucas.dev)
 
-🌱 Learning **Go**
+<hr>
 
-📝 I write articles on [Medium](https://medium.com/@plucasdev)
-
-⚡️ Checkout my website [paulolucas.dev](https://paulolucas.dev)
-
-<h4 align="left">Languages and Tools I love to work with</h4>
+<h3 align="left">Languages and Tools I love to work with</h3>
 <p style='' align="left">
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -26,13 +25,13 @@
   
 </p>
 
-<br>
+<hr>
 
 ### Medium Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+<hr>
 
 ### Github Stats
 <div align="center">
