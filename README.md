@@ -39,7 +39,7 @@
 
 <hr>
 
-### Github Stats
+### Stats
 <div align="center">
   <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-lucas&hide=html,css&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff" alt="My Github Languages">
