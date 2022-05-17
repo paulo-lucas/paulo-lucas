@@ -50,6 +50,31 @@
   </div>
 </div>
 
+<hr>
+
+### React Projects
+[![cart](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=cart&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/cart)
+[![portifolio](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=portifolio&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/portifolio)
+[![spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=spotify-clone&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/spotify-clone)
+[![github-timeline](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=github-timeline&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/github-timeline)
+[![ecoleta](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=ecoleta&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/ecoleta)
+[![be-the-hero](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=be-the-hero&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/be-the-hero)
+
+### React Native Projects
+[![pomodoro-app](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=pomodoro-app&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/pomodoro-app)
+
+### Angular Projects
+[![trello-clone](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=trello-clone&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/trello-clone)
+[![trello-clone-api](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=trello-clone-api&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/trello-clone-api)
+
+### Other
+[![drawit](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=drawit&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/drawit)
+[![crypto-wallet](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=crypto-wallet&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/crypto-wallet)
+[![omnilamina-bot](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=omnilamina-bot&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/omnilamina-bot)
+[![github-tracker](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=github-tracker&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/github-tracker)
+
+
+<hr>
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/paulo-lucas/count.svg)
