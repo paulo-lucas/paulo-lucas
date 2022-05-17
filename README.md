@@ -69,8 +69,9 @@
 
 ### Other
 [![drawit](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=drawit&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/drawit)
-[![crypto-wallet](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=crypto-wallet&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/crypto-wallet)
 [![omnilamina-bot](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=omnilamina-bot&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/omnilamina-bot)
+[![birdi](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=birdi&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/birdi)
+[![crypto-wallet](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=crypto-wallet&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/crypto-wallet)
 [![github-tracker](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=github-tracker&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/github-tracker)
 
 
