@@ -7,10 +7,13 @@
 
 <img align="right" width="300px" alt="GIF" src="https://media2.giphy.com/media/3uVhZo8WoZgSo3at4q/giphy.gif" />
 
-- 💼 Currently working as Software Engineer at <a href="https://www.americanas.com.br/" target="_blank"><b>americanas s.a.</b></a>
-- 🌱 Learning **Go**
-- 📝 I write articles on [Medium](https://medium.com/@plucasdev)
-- ⚡️ Checkout my website [paulolucas.dev](https://paulolucas.dev)
+💼 Currently working as Software Engineer at <a href="https://www.americanas.com.br/" target="_blank"><b>americanas s.a.</b></a>
+
+🌱 Learning **Go**
+
+📝 I write articles on [Medium](https://medium.com/@plucasdev)
+
+⚡️ Checkout my website [paulolucas.dev](https://paulolucas.dev)
 
 <hr>
 
