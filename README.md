@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?&logo=Linkedin&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/plucas-cer/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-222222?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@plucasdev)](https://medium.com/@plucasdev)
 [![Twitter](https://img.shields.io/badge/-plucasdev-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/plucasdev)](https://twitter.com/plucasdev)
-[![Instagram Badge](https://img.shields.io/badge/-@plucas.oc-EA0C5F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/plucas.oc/)](https://instagram.com/jlim_slam)
+[![Instagram Badge](https://img.shields.io/badge/-@plucas.oc-EA0C5F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/plucas.oc/)](https://instagram.com/plucas.oc)
 
 <img align="right" width="300px" alt="GIF" src="https://media2.giphy.com/media/3uVhZo8WoZgSo3at4q/giphy.gif" />
 
