@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/-plucasdev-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/plucasdev)](https://twitter.com/plucasdev)
 [![Instagram Badge](https://img.shields.io/badge/-@plucas.oc-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/plucas.oc/)](https://instagram.com/jlim_slam)
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/3uVhZo8WoZgSo3at4q/giphy.gif" />
+<img align="right" width="360px" alt="GIF" src="https://media2.giphy.com/media/3uVhZo8WoZgSo3at4q/giphy.gif" />
 
 - 💼 Currently working as Software Engineer at <a href="https://www.americanas.com.br/" target="_blank"><b>americanas s.a.</b></a>
 - 🌱 Learning **Go**
