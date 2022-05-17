@@ -37,11 +37,11 @@
 ### Github Stats
 <div align="center">
   <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-lucas&layout=compact" alt="My Github Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-lucas&hide=html,css&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff" alt="My Github Languages">
   </div>
   <br>
   <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-lucas&&show_icons=true&count_private=true&include_all_commits=true" alt="My Github Stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulo-lucas&&show_icons=true&count_private=true&include_all_commits=true&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff" alt="My Github Stats">
   </div>
 </div>
 
