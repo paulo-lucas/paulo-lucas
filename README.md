@@ -31,6 +31,7 @@
 
 ### Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Gerenciando estados no React com a Context API e useReducer](https://plucasdev.medium.com/gerenciando-estados-no-react-com-a-context-api-e-usereducer-2006097e9ab8?source=rss-88b2e328dfdc------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
