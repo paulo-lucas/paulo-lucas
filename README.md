@@ -72,6 +72,9 @@
 [![omnilamina-bot](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=omnilamina-bot&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/omnilamina-bot)
 [![birdi](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=birdi&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/birdi)
 [![crypto-wallet](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=crypto-wallet&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/crypto-wallet)
+[![form-template](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=form-template&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/form-template)
+[![calculator](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=calculator&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/calculator)
+[![student-form](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=student-form&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/student-form)
 [![github-tracker](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=github-tracker&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/github-tracker)
 
 
