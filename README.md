@@ -19,11 +19,11 @@
 
 <h3 align="left">Languages and Tools I love to work with</h3>
 <p style='' align="left">
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -36,6 +36,14 @@
 <!-- BLOG-POST-LIST:START -->
 - [Gerenciando estados no React com a Context API e useReducer](https://plucasdev.medium.com/gerenciando-estados-no-react-com-a-context-api-e-usereducer-2006097e9ab8?source=rss-88b2e328dfdc------2)
 <!-- BLOG-POST-LIST:END -->
+
+<hr>
+
+### Algorithym Training
+   
+  - <a href="https://exercism.org/profiles/paulo-lucas" target="_blank" rel="noreferrer"> <img align="center" src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="exercism" height="40px" /> Exercism</a>
+  - <a href="https://www.hackerrank.com/plucas_cer" target="_blank" rel="noreferrer"> <img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="hackerrank" height="40px" /> HackerRank</a>
+  - <a href="https://www.codewars.com/users/paulo-lucas" target="_blank" rel="noreferrer"> <img align="center" src="https://www.codewars.com/users/paulo-lucas/badges/large" alt="codewars" /> </a>
 
 <hr>
 
