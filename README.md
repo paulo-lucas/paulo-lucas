@@ -39,7 +39,7 @@
 
 <hr>
 
-### Algorithym Training
+### Algorithm Training
    
   - <a href="https://exercism.org/profiles/paulo-lucas" target="_blank" rel="noreferrer"> <img align="center" src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="exercism" height="40px" /> Exercism</a>
   - <a href="https://www.hackerrank.com/plucas_cer" target="_blank" rel="noreferrer"> <img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="hackerrank" height="40px" /> HackerRank</a>
