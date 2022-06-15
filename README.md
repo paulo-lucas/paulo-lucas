@@ -5,6 +5,8 @@
 [![Twitter](https://img.shields.io/badge/-plucasdev-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/plucasdev)](https://twitter.com/plucasdev)
 [![Instagram Badge](https://img.shields.io/badge/-@plucas.oc-EA0C5F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/plucas.oc/)](https://instagram.com/plucas.oc)
 
+<a href="https://www.codewars.com/users/paulo-lucas" target="_blank" rel="noreferrer"> <img align="center" src="https://www.codewars.com/users/paulo-lucas/badges/small" alt="codewars rank" height="24px" /> </a>
+
 <img align="right" height="300" alt="GIF" src="https://media2.giphy.com/media/3uVhZo8WoZgSo3at4q/giphy.gif" />
 
 💼 Currently working as Software Engineer at <a href="https://www.americanas.com.br/" target="_blank"><b>americanas s.a.</b></a>
@@ -43,7 +45,7 @@
    
   - <a href="https://exercism.org/profiles/paulo-lucas" target="_blank" rel="noreferrer"> <img align="center" src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="exercism" height="40px" /> Exercism</a>
   - <a href="https://www.hackerrank.com/plucas_cer" target="_blank" rel="noreferrer"> <img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="hackerrank" height="40px" /> HackerRank</a>
-  - <a href="https://www.codewars.com/users/paulo-lucas" target="_blank" rel="noreferrer"> <img align="center" src="https://www.codewars.com/users/paulo-lucas/badges/small" alt="codewars" /> </a>
+  - <a href="https://www.codewars.com/users/paulo-lucas" target="_blank" rel="noreferrer"> <img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars" height="36px" /> Codewars</a> 
 
 <hr>
 
