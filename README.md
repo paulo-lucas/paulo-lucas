@@ -72,6 +72,7 @@
 
 ### React Native Projects
 [![pomodoro-app](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=pomodoro-app&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/pomodoro-app)
+[![books](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=books&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/books)
 
 ### Angular Projects
 [![trello-clone](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=trello-clone&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/trello-clone)
