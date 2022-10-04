@@ -62,6 +62,10 @@
 
 <hr>
 
+### React Native Projects
+[![pomodoro-app](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=pomodoro-app&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/pomodoro-app)
+[![books](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=books&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/books)
+
 ### React Projects
 [![cart](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=cart&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/cart)
 [![portifolio](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=portifolio&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/portifolio)
@@ -69,10 +73,6 @@
 [![github-timeline](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=github-timeline&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/github-timeline)
 [![ecoleta](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=ecoleta&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/ecoleta)
 [![be-the-hero](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=be-the-hero&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/be-the-hero)
-
-### React Native Projects
-[![pomodoro-app](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=pomodoro-app&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/pomodoro-app)
-[![books](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=books&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/books)
 
 ### Angular Projects
 [![trello-clone](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=trello-clone&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/trello-clone)
