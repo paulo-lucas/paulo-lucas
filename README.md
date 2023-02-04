@@ -9,7 +9,7 @@
 
 <img align="right" height="300" alt="GIF" src="https://media2.giphy.com/media/3uVhZo8WoZgSo3at4q/giphy.gif" />
 
-💼 Currently working as Software Engineer at <a href="https://www.americanas.com.br/" target="_blank"><b>americanas s.a.</b></a>
+💼 Currently working as Software Engineer at IBM Brazil
 
 🌱 Learning **Go**
 
