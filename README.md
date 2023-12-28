@@ -45,7 +45,7 @@
    
   - <a href="https://exercism.org/profiles/paulo-lucas" target="_blank" rel="noreferrer"> <img align="center" src="https://avatars.githubusercontent.com/u/5624255?s=200&v=4" alt="exercism" height="40px" /> Exercism</a>
   - <a href="https://www.hackerrank.com/plucas_cer" target="_blank" rel="noreferrer"> <img align="center" src="https://avatars.githubusercontent.com/u/1030588?s=200&v=4" alt="hackerrank" height="40px" /> HackerRank</a>
-  - <a href="https://www.codewars.com/users/paulo-lucas" target="_blank" rel="noreferrer"> <img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars" height="36px" /> Codewars</a> 
+  - <a href="https://www.codewars.com/users/paulo-lucas" target="_blank" rel="noreferrer"> <img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="codewars" height="36px" /> Codewars</a> 
 
 <hr>
 
@@ -71,8 +71,6 @@
 [![portifolio](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=portifolio&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/portifolio)
 [![spotify-clone](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=spotify-clone&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/spotify-clone)
 [![github-timeline](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=github-timeline&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/github-timeline)
-[![ecoleta](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=ecoleta&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/ecoleta)
-[![be-the-hero](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=be-the-hero&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/be-the-hero)
 
 ### Angular Projects
 [![trello-clone](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=trello-clone&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/trello-clone)
@@ -83,9 +81,7 @@
 [![omnilamina-bot](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=omnilamina-bot&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/omnilamina-bot)
 [![birdi](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=birdi&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/birdi)
 [![crypto-wallet](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=crypto-wallet&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/crypto-wallet)
-[![form-template](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=form-template&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/form-template)
 [![calculator](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=calculator&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/calculator)
-[![student-form](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=student-form&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/student-form)
 [![github-tracker](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=github-tracker&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/github-tracker)
 
 
