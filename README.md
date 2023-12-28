@@ -11,8 +11,6 @@
 
 💼 Currently working as Software Engineer at IBM Brazil
 
-🌱 Learning **Go**
-
 📝 I write articles on [Medium](https://medium.com/@plucasdev)
 
 ⚡️ Checkout my website [paulolucas.dev](https://paulolucas.dev)
