@@ -9,7 +9,7 @@
 
 <img align="right" height="300" alt="GIF" src="https://media2.giphy.com/media/3uVhZo8WoZgSo3at4q/giphy.gif" />
 
-💼 Currently working as Software Engineer at IBM Brazil
+💼 Currently working as Senior Software Engineer at Questrade
 
 📝 I write articles on [Medium](https://medium.com/@plucasdev)
 
@@ -82,8 +82,3 @@
 [![calculator](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=calculator&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/calculator)
 [![github-tracker](https://github-readme-stats.vercel.app/api/pin/?username=paulo-lucas&repo=github-tracker&bg_color=30,0BC5EA,3182CE,6B46C1&title_color=fff&text_color=fff)](https://github.com/paulo-lucas/github-tracker)
 
-
-<hr>
-
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/paulo-lucas/count.svg)
